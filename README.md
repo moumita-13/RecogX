@@ -18,4 +18,6 @@ RecogX is an innovative attendance system designed to streamline the traditional
   ![Screenshot1](https://github.com/moumita-13/RecogX/blob/2e9da5a52d3259e4a47c534e88c7b2af7a8335c5/Project%20Run/Screenshot1.png)
 * Attendance Logging: Successfully recognized individuals have their name,date,time automatically recorded and updated in the system.
   
+  ![Screenshot2](https://github.com/moumita-13/RecogX/blob/5c981ea618865e80e4dfbacec6fe062674a8ba75/Project%20Run/Screenshot4.png)
+
 * Reporting: Administrators can access attendance reports to track attendance trends and analyze data using data analysis techniques.
