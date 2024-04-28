@@ -24,5 +24,9 @@ RecogX is an innovative attendance system designed to streamline the traditional
 * Reporting: Administrators can access attendance reports to track attendance trends and analyze data using data analysis techniques.
 
 ## Languages :
+<div>
+  <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
+   <img src="https://github.com/devicons/devicon/blob/6910f0503efdd315c8f9b858234310c06e04d9c0/icons/opencv/opencv-original-wordmark.svg"title="OpenCV" alt="OpenCV" width="40" height="40"/>&nbsp;
+</div>
 
 ## Contact: For any queries, contact at moumitc098@gmail.com
