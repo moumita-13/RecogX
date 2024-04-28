@@ -1,5 +1,4 @@
-<h1 align="center">RecogX👥</h1>
-Welcome to RecogX, your ultimate solution for automating attendance tracking using facial recognition technology!
+<div align="center"><img src="RecogX Logo.png" alt="Logo" width="300"/></div>
 
 ## Description 📜
 RecogX is an innovative attendance system designed to streamline the traditional attendance process. By harnessing the power of facial recognition, FaceMark eliminates the need for manual attendance marking, saving time and improving accuracy.
