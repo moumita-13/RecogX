@@ -14,5 +14,8 @@ RecogX is an innovative attendance system designed to streamline the traditional
 ### How It Works 🖥️
 * Enrollment: Users are enrolled by capturing their facial biometrics by uploading a picture, encoding it and associating them with their profiles.
 * Recognition: During attendance sessions, RecogX compares captured faces with enrolled profiles to accurately identify individuals.
+  
+  ![Screenshot1](https://github.com/moumita-13/RecogX/blob/2e9da5a52d3259e4a47c534e88c7b2af7a8335c5/Project%20Run/Screenshot1.png)
 * Attendance Logging: Successfully recognized individuals have their name,date,time automatically recorded and updated in the system.
+  
 * Reporting: Administrators can access attendance reports to track attendance trends and analyze data using data analysis techniques.
